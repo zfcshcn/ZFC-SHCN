@@ -1,6 +1,1 @@
-# Time-Conditioned Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting
-## ZFC-SHCN
-Code for paper [Time-Conditioned Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting](https://openreview.net/pdf?id=2Ln-TWxVtf) (NeurIPS 2022).
-
-## Requirements
-Pytorch 1.8.0
+For the datasets of PeMSD4, please download via https://www.dropbox.com/scl/fo/pjeao1u3rvj63j2hkq4gp/h?dl=0&rlkey=v3r41zcjrpmhuil0dmxmj88u6 and save all 8 files (including PEMS04.npz, distance.csv, PEMSD4_hodge_Laplacian.npz, PEMSD4_edge_features_matrix.npz, PEMSD4_B1.npz, PEMSD4_ZFC_train_data.npz, PEMSD4_ZFC_validation_data.npz, PEMSD4_ZFC_test_data.npz) in the PEMS04 folder.
