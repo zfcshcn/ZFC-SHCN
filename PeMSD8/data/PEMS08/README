@@ -1,0 +1,1 @@
+For the datasets of PeMSD8, please download via https://www.dropbox.com/scl/fo/j59dwehp2jgn6wfpttqgt/h?dl=0&rlkey=tscx10z52lnpk8ap6pjsj0lf2 and save all 8 files (including PEMS08.npz, distance.csv, PEMSD8_hodge_Laplacian.npz, PEMSD8_edge_features_matrix.npz, PEMSD8_B1.npz, PEMSD8_ZFC_train_data.npz, PEMSD8_ZFC_validation_data.npz, PEMSD8_ZFC_test_data.npz) in the PEMS08 folder.
